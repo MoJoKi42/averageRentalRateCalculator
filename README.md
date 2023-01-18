@@ -5,9 +5,10 @@ Einfaches Skript, welches eine eBay Kleinanzeigen URL entgegennimmt und dann aut
 
 Wichtig: Dieses Skript funktioniert aktuell nur für Mietwohnungen bzw. URLs mit folgendem Schema:<br>
 "https://www.ebay-kleinanzeigen.de/s-wohnung-mieten/xxxxxx/wohnung/xxxxxx"
+<br><br>
 
-
-Das ganze sieht dann in etwa folgendermaßen aus:
+Das ganze sieht dann in etwa folgendermaßen aus:<br><br>
+![alt text](img_terminal.png "img1")
 
 
 
